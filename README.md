@@ -1,2 +1,2 @@
-# -lawCraneArduino
-Small Arduino sketch for the operation of a claw crane type machine
+# ToyCraneArduino
+Small Arduino sketch for the operation of a toy crane type machine
